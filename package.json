@@ -1,0 +1,21 @@
+{
+  "name": "blastmap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blasttask": "^1.0.4",
+    "ms-jobmanager": "^1.0.1",
+    "taskobject": "^2.1.3"
+  },
+  "devDependencies": {
+    "@types/node": "^10.1.1",
+    "@types/winston": "^2.3.9",
+    "fasta-lib": "^1.0.1"
+  }
+}
